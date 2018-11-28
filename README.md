@@ -1,14 +1,13 @@
-# Dojo - frontend
+# TDD - frontend
 
-Resumir un poco la idea del dojo de frontend
+Este repo contiene diferentes propuestas para configurar un entorno y desarrollar frontend aplicando TDD en su maxima
+expresion valiendo de herramientas y "harnesses" que nos permitan lograr esto en diferentes frameworks:
 
-### Que queremos trabajar y poner en práctica:
-    
-1 - Como hacer TDD para validar markup y render desde un frontend.
 
-2 - Como encontrar las responsabilidades del frontend ante los requerimientos de producto.
-    
-3 - Como compartir las soluciones de las problematicas que traen las responsabilidades entre diferentes dispositivos. 
+- React -> branch: `tdd/react`
+- Angular -> branch: `tdd/angular`
+- Vue -> branch: `tdd/vue`
 
-### Qué vamos a estar haciendo
 
+### Contributors
+- Agustin Castiarena <[castiarena@gmail.com](mailto:castiarena@gmail.com)>
