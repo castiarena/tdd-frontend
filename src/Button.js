@@ -10,7 +10,7 @@ const Button = styled.button`
   font-size: 18px;
   background-color: ${base.hexa()};
   border-radius: 12px;
-  margin-left: 10px;
+  margin: 10px;
   color: #fff;
   box-shadow: 1px 2px 7px rgba(0,0,0, .3);
   transition: box-shadow linear .2s;
