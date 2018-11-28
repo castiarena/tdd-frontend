@@ -1,7 +1,0 @@
-{
-  "snapshotSerializers": [ "enzyme-to-json/serializer" ],
-  "setupFiles": [ "<rootDir>/jest.config.js" ],
-  "globalSetup": "jest-environment-puppeteer/setup",
-  "globalTeardown": "jest-environment-puppeteer/teardown",
-  "testEnvironment": "jest-environment-puppeteer"
-}
